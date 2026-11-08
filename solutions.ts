@@ -74,5 +74,4 @@ const validateAgeAsync = (age: number): Promise<string> => {
     }
   });
 };
-
 export {};
